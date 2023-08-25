@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/14SOeHwOjbwZjKg-UBwPq4Puha0uaWPTT
 """
 
-!pip install transformers
+#!pip install transformers
 
-!pip install streamlit
+#!pip install streamlit
 
 import pandas as pd
 from transformers import TFBertForSequenceClassification
